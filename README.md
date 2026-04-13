@@ -72,7 +72,8 @@ I enjoy solving real-world problems through code
 
 ## 📊 GitHub Stats
 
-![Sanjyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjyot-bhagat&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjyot-bhagat&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjyot-bhagat&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 <!--
