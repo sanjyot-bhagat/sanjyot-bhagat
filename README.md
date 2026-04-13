@@ -74,6 +74,8 @@ I enjoy solving real-world problems through code
 
 ![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjyot-bhagat&theme=tokyonight)
 
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sanjyot-bhagat&theme=tokyonight)
+
 <!--
 **sanjyot-bhagat/sanjyot-bhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
