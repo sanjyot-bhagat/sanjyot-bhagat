@@ -72,9 +72,8 @@ I enjoy solving real-world problems through code
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sanjyot-bhagat&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjyot-bhagat&layout=compact&theme=tokyonight)
+![Sanjyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjyot-bhagat&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjyot-bhagat&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 <!--
 **sanjyot-bhagat/sanjyot-bhagat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
